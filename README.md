@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="musliuadisa6@gmail.com">📧 Email</a> •
+  <a href="mailto:musliuadisa6@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/chatgpt-ai">💼 LinkedIn</a> •
   <a href="https://github.com/chatgpt">🐙 GitHub</a> •
   <a href="https://twitter.com/chatgpt">🐦 Twitter</a> •
