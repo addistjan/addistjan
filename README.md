@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Addis! <br/> Machine learning scientist</h1>
+<h1 align="center">Hi, I'm Musliu adisa! <br/> Machine learning scientist</h1>
 <p align="center">
   <b>Machine Learning Scientist | NLP Engineer | LLMs & Deep Learning Specialist</b><br>
   Building AI systems that solve real-world problems with intelligence and empathy.
