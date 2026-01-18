@@ -41,7 +41,7 @@ I enjoy solving real-world problems and continuously improving my skills in mode
 I’m always open to collaboration, ideas, and research discussions.
 
 > 📧 Email: musliuadisa6@gmail.com
-> 💼 LinkedIn: [linkedin.com/in/chatgpt-ai](https://www.linkedin.com/in/chatgpt-ai)  
+> 💼 LinkedIn: [linkedin.com/in/musliu-adisa-b320022a9/](https://www.linkedin.com/in/musliu-adisa-b320022a9/)  
 > 🐙 GitHub: [github.com/chatgpt](https://github.com/chatgpt)
 
 ---
