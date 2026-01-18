@@ -36,13 +36,6 @@ I enjoy solving real-world problems and continuously improving my skills in mode
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chatgpt&show_icons=true&theme=calm" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatgpt&layout=compact&theme=calm" width="300"/>
-</p>
-
----
-
 ## 📬 Let's Connect
 
 I’m always open to collaboration, ideas, and research discussions.
