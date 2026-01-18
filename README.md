@@ -14,11 +14,9 @@
 
 ## 🧠 About Me
 
-I’m a machine learning enthusiast with hands-on experience in data analysis, model building, and working with large language models. I enjoy turning data into useful insights and building practical solutions using Python and modern ML tools.
-
-During my SIWES program, I worked in a large computer laboratory with over 750 systems, where I gained strong technical exposure, system support experience, and teamwork skills in a fast-paced environment. This experience improved my problem-solving ability, attention to detail, and understanding of real-world IT operations.
-
-I’m continuously learning and building projects in machine learning and LLMs, with a growing interest in applied AI, data-driven products, and intelligent systems.
+I’m a <strong>Machine Learning Engineer</strong> passionate about building practical, end-to-end ML systems — 
+from data preprocessing and model training to deployment and monitoring.
+I enjoy solving real-world problems and continuously improving my skills in modern ML and AI technologies.
 
 ---
 
