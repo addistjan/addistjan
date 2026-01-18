@@ -35,8 +35,6 @@ I’m continuously learning and building projects in machine learning and LLMs, 
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chatgpt&show_icons=true&theme=calm" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatgpt&layout=compact&theme=calm" width="300"/>
