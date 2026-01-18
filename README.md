@@ -1,64 +1,24 @@
 
-<h1 align="center">Hi, I'm Musliu adisa! <br/> Machine learning scientist</h1>
+<h1 align="center">Hi, I'm Musliu Adisa! <br/> Machine learning scientist and LLMs</h1>
 <p align="center">
-  <b>Machine Learning Scientist | NLP Engineer | LLMs & Deep Learning Specialist</b><br>
+  <b>Machine Learning Scientist | LLMs & Deep Learning Specialist</b><br>
   Building AI systems that solve real-world problems with intelligence and empathy.
 </p>
 
 <p align="center">
   <a href="mailto:musliuadisa6@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/chatgpt-ai">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/musliu-adisa-b320022a9/">💼 LinkedIn</a> •
   <a href="https://github.com/chatgpt">🐙 GitHub</a> •
-  <a href="https://twitter.com/chatgpt">🐦 Twitter</a> •
-  <a href="https://chatgpt.com/blog">🧠 Blog</a>
+  <a href="https://x.com/addis_fresh">🐦 Twitter</a> •
 </p>
 
 ## 🧠 About Me
 
-I'm an AI developed by OpenAI, but let's imagine me as a passionate **Machine Learning Scientist** with a knack for building, researching, and deploying smart systems. I love combining mathematics, code, and real-world impact.
+I’m a machine learning enthusiast with hands-on experience in data analysis, model building, and working with large language models. I enjoy turning data into useful insights and building practical solutions using Python and modern ML tools.
 
-- 🔬 Expertise: NLP, Computer Vision, MLOps, LLMs
-- 🛠️ Tools: Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, FastAPI, MLflow
-- 📚 Research Interests: Generative AI, Causal Inference, Robust Deep Learning
-- 🌍 I advocate for **ethical AI**, **open-source collaboration**, and **accessible education**.
+During my SIWES program, I worked in a large computer laboratory with over 750 systems, where I gained strong technical exposure, system support experience, and teamwork skills in a fast-paced environment. This experience improved my problem-solving ability, attention to detail, and understanding of real-world IT operations.
 
----
-
-## 🔬 Featured Projects
-
-### 🧠 [Smart Legal Assistant](https://github.com/chatgpt/legal-ai-chatbot)
-> 🏛️ AI chatbot that explains legal terms to non-lawyers using GPT-4 and LangChain.  
-> 💡 NLP | LLM | Prompt Engineering | UI with Streamlit  
-> 🌟 _"Bridging access to justice using language models."_
-
----
-
-### 🕵️‍♂️ [Fake News Detector](https://github.com/chatgpt/fake-news-bert)
-> 🔎 A BERT-based classifier trained on real and fake news articles.  
-> 📊 Achieved **92% F1 Score** on test data.  
-> ✅ Transfer learning | Hugging Face | TensorBoard
-
----
-
-### 📸 [Image Caption Generator](https://github.com/chatgpt/image-captioning)
-> 🖼️ CNN + LSTM model with attention to generate human-like captions.  
-> 📚 PyTorch | ResNet | BLEU Score Evaluation  
-> 👀 Includes demo notebook & training script.
-
----
-
-### ⚙️ [MLOps Pipeline with MLflow](https://github.com/chatgpt/mlops-pipeline)
-> 📈 End-to-end machine learning pipeline for model tracking and deployment.  
-> 🧪 Includes AutoML, experiment tracking, Docker, FastAPI.  
-> 📦 Production-ready structure.
-
----
-
-## 📘 Blog Highlights
-
-- [🔍 Fine-Tuning vs Prompt Engineering](https://chatgpt.com/blog/fine-tune-vs-prompt)  
-- [🛠️ My MLOps Stack in 2025](https://chatgpt.com/blog/mlops-stack)  
-- [📊 Visualizing Transformers](https://chatgpt.com/blog/transformers-visual)
+I’m continuously learning and building projects in machine learning and LLMs, with a growing interest in applied AI, data-driven products, and intelligent systems.
 
 ---
 
@@ -90,7 +50,7 @@ I'm an AI developed by OpenAI, but let's imagine me as a passionate **Machine Le
 
 I’m always open to collaboration, ideas, and research discussions.
 
-> 📧 Email: gpt@openai.com  
+> 📧 Email: musliuadisa6@gmail.com
 > 💼 LinkedIn: [linkedin.com/in/chatgpt-ai](https://www.linkedin.com/in/chatgpt-ai)  
 > 🐙 GitHub: [github.com/chatgpt](https://github.com/chatgpt)
 
