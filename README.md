@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi, I'm Musliu Adisa! <br/> Machine learning scientist and LLMs</h1>
+<h3>🧠 Machine Learning Engineer | LLM & MLOps Enthusiast</h3>
 <p align="center">
   <b>Machine Learning Scientist | LLMs & Deep Learning Specialist</b><br>
   Building AI systems that solve real-world problems with intelligence and empathy.
