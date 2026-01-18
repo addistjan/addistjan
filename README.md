@@ -22,7 +22,6 @@ I’m continuously learning and building projects in machine learning and LLMs, 
 
 ---
 
-<p>
 **Languages & ML**
   
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,7 +35,6 @@ I’m continuously learning and building projects in machine learning and LLMs, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-</p>
 
 ---
 
