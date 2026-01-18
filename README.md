@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:musliuadisa6@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/musliu-adisa-b320022a9/">💼 LinkedIn</a> •
-  <a href="https://github.com/chatgpt">🐙 GitHub</a> •
+  <a href="https://github.com/addistjan/addistjan">🐙 GitHub</a> •
   <a href="https://x.com/addis_fresh">🐦 Twitter</a> •
 </p>
 
